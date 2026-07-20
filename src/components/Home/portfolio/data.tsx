@@ -14,5 +14,6 @@ export const projects: Project[] = [
       "A handmade word clock powered by an Arduino Uno R3 and a DS3231 RTC, driving 135 WS2812B LEDs wired in an 11×12 grid with FastLED. Five color and effect modes, behind a laser-cut acrylic diffuser panel.",
     tags: ["Arduino", "C++", "FastLED", "Embedded"],
     icon: "lucide:clock-4",
+    link: "https://word-clock-opal.vercel.app/"
   },
 ];
