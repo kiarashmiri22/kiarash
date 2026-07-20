@@ -10,7 +10,7 @@ const Contact = () => {
       <div className="container px-4">
         <div className="text-center flex flex-col gap-4 mb-16">
           <p className="text-white font-medium">
-            Get in <span className="text-primary">touch</span>
+            Better Call <span className="text-primary">Kiarash</span>
           </p>
           <h2 className="text-white sm:text-5xl text-3xl font-medium">
             Let&apos;s talk about your project
